@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Listas encadeadas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Listas_encadeadas_jar</output-path>
+    <root id="archive" name="Listas encadeadas.jar">
+      <element id="module-output" name="Listas encadeadas" />
+    </root>
+  </artifact>
+</component>
